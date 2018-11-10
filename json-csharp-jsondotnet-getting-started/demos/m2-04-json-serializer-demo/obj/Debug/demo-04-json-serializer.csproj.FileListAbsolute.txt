@@ -1,0 +1,16 @@
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\bin\Debug\m2.exe.config
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\obj\Debug\m2.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\obj\Debug\m2.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\bin\Debug\m2.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\bin\Debug\m2.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m2\obj\Debug\demo-04-json-serializer.csprojResolveAssemblyReference.cache
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\bin\Debug\m2.exe.config
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\bin\Debug\m2.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\bin\Debug\m2.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\obj\Debug\demo-04-json-serializer.csprojResolveAssemblyReference.cache
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\obj\Debug\m2.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-04-json-serializer\obj\Debug\m2.pdb

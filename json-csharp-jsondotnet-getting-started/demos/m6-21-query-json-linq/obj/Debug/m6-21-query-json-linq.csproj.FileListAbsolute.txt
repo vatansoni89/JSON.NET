@@ -1,0 +1,10 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\m6-21-query-json-linq.exe.config
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\m6-21-query-json-linq.exe.config
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\m6-21-query-json-linq.exe
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\m6-21-query-json-linq.pdb
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\Newtonsoft.Json.dll
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\bin\Debug\Newtonsoft.Json.xml
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\obj\Debug\m6-21-query-json-linq.csproj.CoreCompileInputs.cache
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\obj\Debug\m6-21-query-json-linq.csproj.CopyComplete
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\obj\Debug\m6-21-query-json-linq.exe
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m6-21-query-json-linq\obj\Debug\m6-21-query-json-linq.pdb

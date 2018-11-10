@@ -1,0 +1,8 @@
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\bin\Debug\m5.exe.config
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\obj\Debug\m5.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\obj\Debug\m5.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\bin\Debug\m5.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\bin\Debug\m5.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-dates\obj\Debug\demo-07-dates.csprojResolveAssemblyReference.cache

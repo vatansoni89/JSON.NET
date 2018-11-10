@@ -1,0 +1,10 @@
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\bin\Debug\m2-05-dates-demo.exe.config
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\bin\Debug\m2-05-dates-demo.exe
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\bin\Debug\m2-05-dates-demo.pdb
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\bin\Debug\Newtonsoft.Json.dll
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\bin\Debug\Newtonsoft.Json.xml
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\obj\Debug\m2-05-dates-demo.csprojAssemblyReference.cache
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\obj\Debug\m2-05-dates-demo.csproj.CoreCompileInputs.cache
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\obj\Debug\m2-05-dates-demo.csproj.CopyComplete
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\obj\Debug\m2-05-dates-demo.exe
+D:\Vatan\Learnings\json-csharp-jsondotnet-getting-started\demos\m2-05-dates-demo\obj\Debug\m2-05-dates-demo.pdb

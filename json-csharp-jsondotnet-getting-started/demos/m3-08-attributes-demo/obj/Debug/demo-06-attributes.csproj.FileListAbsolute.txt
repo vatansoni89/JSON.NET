@@ -1,0 +1,16 @@
+C:\jsonnet-pluralsight\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.exe.config
+C:\jsonnet-pluralsight\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.exe
+C:\jsonnet-pluralsight\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.pdb
+C:\jsonnet-pluralsight\demos\demo-06-attributes\bin\Debug\Newtonsoft.Json.dll
+C:\jsonnet-pluralsight\demos\demo-06-attributes\bin\Debug\Newtonsoft.Json.xml
+C:\jsonnet-pluralsight\demos\demo-06-attributes\obj\Debug\demo-06-attributes.csprojResolveAssemblyReference.cache
+C:\jsonnet-pluralsight\demos\demo-06-attributes\obj\Debug\json.net.06.attributes.exe
+C:\jsonnet-pluralsight\demos\demo-06-attributes\obj\Debug\json.net.06.attributes.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.exe.config
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\bin\Debug\json.net.06.attributes.pdb
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\obj\Debug\demo-06-attributes.csprojResolveAssemblyReference.cache
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\obj\Debug\json.net.06.attributes.exe
+C:\Dropbox\xavier-morera-pluralsight-dev\json-csharp-jsondotnet-getting-started\demos\demo-06-attributes\obj\Debug\json.net.06.attributes.pdb

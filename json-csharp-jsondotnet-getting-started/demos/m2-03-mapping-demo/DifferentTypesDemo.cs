@@ -9,6 +9,8 @@ namespace pluralsight.json.net.m2.d3
 {
     public class DifferentTypesDemo
     {
+        //We can deserilized to Dictionary and AnonymousType.
+
         public static void ShowDifferentTypes()
         {
             Console.Clear();

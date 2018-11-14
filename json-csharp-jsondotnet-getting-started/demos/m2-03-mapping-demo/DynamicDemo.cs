@@ -10,6 +10,8 @@ namespace pluralsight.json.net.m2.d3
 {
     public class DynamicDemo
     {
+        //JsonConvert uses reflection so Serialize and Deserialize are little slow.
+        //JsonTextReader don't use reflection so faster.
         public static void ShowDynamic()
         {
             Console.Clear();

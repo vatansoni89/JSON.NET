@@ -28,7 +28,7 @@ namespace pluralsight.json.net.m3.d7
             Console.WriteLine(xavierNullValue);
 
             Console.WriteLine("- Serialize object with setting to ignore null values");
-            jsonSettings.NullValueHandling = NullValueHandling.Ignore;
+            jsonSettings.NullValueHandling = NullValueHandling.Ignore; // just get non null members.
             string xavierNullValueIgnore = JsonConvert.SerializeObject(xavierPocoWithNullValue, jsonSettings);
             Console.WriteLine(xavierNullValueIgnore);
 

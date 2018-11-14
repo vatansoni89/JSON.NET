@@ -10,6 +10,8 @@ namespace pluralsight.json.net.m2.d4
 {
     public class JsonTextReaderDemo
     {
+        //JsonConvert uses reflection so Serialize and Deserialize are little slow.
+        //JsonTextReader don't use reflection so faster.
         public static void ShowJsonTextReader()
         {
             Console.Clear();

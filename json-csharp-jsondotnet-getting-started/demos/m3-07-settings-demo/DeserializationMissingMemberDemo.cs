@@ -9,6 +9,7 @@ namespace pluralsight.json.net.m3.d7
 {
     public class DeserializationMissingMemberDemo
     {
+        //By defalut .net class will be on priority and missing member will get default value in .net class.
         public static void ShowDeserializationMissingMember()
         {
             Console.Clear();

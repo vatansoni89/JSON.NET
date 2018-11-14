@@ -31,6 +31,9 @@ namespace pluralsight.json.net.m2.d4
                 }";
 
             JsonTextReader jsonReader = new JsonTextReader(new StringReader(jsonText));
+
+            //JsonToken TokenType  : Almost every thing is a TokenType in json string, the beginning '{' is StartObject, then it goes gor key and values.
+
             while (jsonReader.Read())
             {
                 if (jsonReader.Value != null)

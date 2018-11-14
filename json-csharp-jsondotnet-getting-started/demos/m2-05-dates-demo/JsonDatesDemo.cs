@@ -44,7 +44,7 @@ namespace pluralsight.json.net.m2.d5
             Console.WriteLine(dateCustom);
 
             Console.WriteLine("- Serialize object specifying to use JavaScript DateTime converter");
-            string dateJavaScript = JsonConvert.SerializeObject(author, Formatting.Indented, new JavaScriptDateTimeConverter());
+            string dateJavaScript = JsonConvert.SerializeObject(author, Formatting.Indented, new JavaScriptDateTimeConverter()); //unix datetime, unix eboc
             Console.WriteLine(dateJavaScript);
         }
     }

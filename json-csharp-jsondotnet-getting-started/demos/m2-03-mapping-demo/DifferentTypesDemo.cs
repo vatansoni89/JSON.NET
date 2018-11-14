@@ -29,7 +29,7 @@ namespace pluralsight.json.net.m2.d3
             Dictionary<string, string> authorDictionary = JsonConvert.DeserializeObject<Dictionary<string, string>>(authorProperties);
 
             Console.WriteLine("- Anonymous types");
-            var authorAnonymousTypeDefinition = new
+            var authorAnonymousTypeDefinition = new //anonymous types also can be used for deserialization.
             {
                 author = string.Empty,
                 happy = false,

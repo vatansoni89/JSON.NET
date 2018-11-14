@@ -45,7 +45,7 @@ namespace pluralsight.json.net.m2.d4
 
             Console.WriteLine("- Ignore nulls");
             serializer = new JsonSerializer();
-            serializer.NullValueHandling = NullValueHandling.Ignore;
+            serializer.NullValueHandling = NullValueHandling.Ignore; //null properties of author won't be included. Good
             serializer.Formatting = Formatting.Indented;
             using (StreamWriter sw = new StreamWriter(@"..\..\3-ignorenulls.json"))
             {
